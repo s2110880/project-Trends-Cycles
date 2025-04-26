@@ -1,0 +1,21 @@
+FREQ;Frequency;INSTRUMENT_TYPE;Instrument Type;TENOR;Tenor;UNIT_MEASURE;Unit of Measure;DECIMALS;COLLECTION;Collection Indicator;TIME_PERIOD;OBS_VALUE;CALC_METHOD;Calculation Method
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2005;1.92;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2006;2.74;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2007;4.38;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2008;5.32;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2009;1.75;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2010;1.92;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2011;2.14;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2012;1.55;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2013;1.5;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2014;1.49;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2015;1.05;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2016;0.55;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2017;0.5;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2018;0.57;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2019;1.15;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2020;0.36;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2021;0.08;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2022;1.33;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2023;3.54;;
+A;Annual;KPRA;Key policy rate;SD;Policy rate;R;Rate;2;A;Average of observations through period (A);2024;4.5;;
